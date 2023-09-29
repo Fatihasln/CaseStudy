@@ -1,0 +1,41 @@
+[{
+  "register_date": "2023-06-10",
+  "cohort_size": "541",
+  "retention_day_N": "13.308687615526802"
+}, {
+  "register_date": "2023-06-09",
+  "cohort_size": "509",
+  "retention_day_N": "12.37721021611002"
+}, {
+  "register_date": "2023-06-08",
+  "cohort_size": "499",
+  "retention_day_N": "12.024048096192384"
+}, {
+  "register_date": "2023-06-07",
+  "cohort_size": "522",
+  "retention_day_N": "14.750957854406129"
+}, {
+  "register_date": "2023-06-06",
+  "cohort_size": "521",
+  "retention_day_N": "13.81957773512476"
+}, {
+  "register_date": "2023-06-05",
+  "cohort_size": "499",
+  "retention_day_N": "19.639278557114228"
+}, {
+  "register_date": "2023-06-04",
+  "cohort_size": "601",
+  "retention_day_N": "13.976705490848584"
+}, {
+  "register_date": "2023-06-03",
+  "cohort_size": "559",
+  "retention_day_N": "15.921288014311269"
+}, {
+  "register_date": "2023-06-02",
+  "cohort_size": "509",
+  "retention_day_N": "13.948919449901767"
+}, {
+  "register_date": "2023-06-01",
+  "cohort_size": "450",
+  "retention_day_N": "0.0"
+}]
